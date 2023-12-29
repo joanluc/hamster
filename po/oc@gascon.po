@@ -21,15 +21,15 @@ msgstr ""
 
 #: data/date_range.ui:50
 msgid "Today:"
-msgstr "Aujourd'hui :"
+msgstr "Uei :"
 
 #: data/date_range.ui:99
 msgid "Week:"
-msgstr "Semaine :"
+msgstr "Setmana :"
 
 #: data/date_range.ui:148
 msgid "Month:"
-msgstr "Mois :"
+msgstr "Mès :"
 
 #: data/date_range.ui:196
 msgid "Range:"
