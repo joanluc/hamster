@@ -45,7 +45,7 @@ msgstr "Aplicar"
 
 #: data/edit_activity.ui:15
 msgid "Add Earlier Activity"
-msgstr "Ajout d'une activité antérieure"
+msgstr "Ajustèr ua activitat anteriora"
 
 #. column title in the TSV export format
 #: data/edit_activity.ui:120 src/hamster/reports.py:143
