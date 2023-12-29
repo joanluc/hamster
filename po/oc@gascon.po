@@ -33,7 +33,7 @@ msgstr "Mès :"
 
 #: data/date_range.ui:196
 msgid "Range:"
-msgstr "Période :"
+msgstr "Temporada :"
 
 #: data/date_range.ui:242
 msgid "to"
