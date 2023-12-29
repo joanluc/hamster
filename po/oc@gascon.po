@@ -37,11 +37,11 @@ msgstr "Temporada :"
 
 #: data/date_range.ui:242
 msgid "to"
-msgstr "à"
+msgstr "tà"
 
 #: data/date_range.ui:288
 msgid "Apply"
-msgstr "Appliquer"
+msgstr "Aplicar"
 
 #: data/edit_activity.ui:15
 msgid "Add Earlier Activity"
